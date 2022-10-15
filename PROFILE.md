@@ -1,2 +1,3 @@
 UPDATE 
-I HAVE JUST LEARNED A LITTLE BIT OF GITHUB. 
+This is a deleted line. 
+This is a new line updated on GitHub. 
